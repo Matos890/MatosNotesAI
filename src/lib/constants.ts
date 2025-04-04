@@ -1,0 +1,1 @@
+export const debounceTimeout = 1000; // 500ms debounce time for note updates
